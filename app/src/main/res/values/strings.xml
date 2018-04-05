@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RuntimePermissions</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_easy_permissions">EasyPermissionsActivity</string>
+    <string name="title_activity_permissions">PermissionsActivity</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="camera_and_location">Camera and Location</string>
+    <string name="mic">Record Audio</string>
+    <string name="read_contacts">Read Contacts</string>
+
+
+    <string name="rationale_location_contacts">This app needs access to your location and contacts to know where and who you are.</string>
+    <string name="rationale_location_camera">This app needs access to your location and camera to take pictures.</string>
+    <string name="rationale_audio">This app needs access to your microphone to record audio messages.</string>
+    <string name="rationale_read_contacts">This app needs access to your contacts to find friends.</string>
+
+    <string name="returned_from_app_settings_to_activity">
+        Returned from app settings to MainActivity with the following permissions:
+        \n\nCamera: %s
+        \nLocation &amp; Contacts: %s
+        \nSMS: %s
+    </string>
+    <string name="rationale_ask_ok">OK</string>
+    <string name="rationale_ask_cancel">Cancel</string>
+</resources>
